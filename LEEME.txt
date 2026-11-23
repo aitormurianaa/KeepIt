@@ -1,10 +1,4 @@
-KEEPIT v12 - corrige Trade Republic: usa el cuarto importe del resumen (BALANCE FINAL), no el balance inicial.
-KEEPIT v11 - grafico de gastos mensual y anual seleccionable en Resumen.
-KEEPIT v10 - categorias separadas: Restaurantes, Ocio, Ropa y Compras.
-KEEPIT v9
-Inicio: saldos separados, gasto/ingreso/transferencia y ultimos movimientos.
-Resumen: presupuestos, grafico circular, categorias y resultado mensual.
-Cuentas: Revolut y Trade Republic por defecto; editar y crear mas.
-Herramientas: importacion local de PDF optimizada para Revolut y Trade Republic, clasificacion automatica, vista previa, duplicados, reconciliacion de saldo y copias de seguridad.
-
-Actualizacion GitHub: sube TODOS estos archivos con Add file > Upload files y Commit changes. Espera a Pages y abre la web una vez en Safari.
+KEEPIT v13
+Mantiene Inicio, Resumen, Cuentas, Herramientas, Revolut/Trade Republic, categorias separadas, grafico mensual/anual, presupuestos e importador PDF con saldo final.
+NUEVO: pantalla Listas con Gastos e Ingresos por separado, filtro por mes y ano, opcion Todos los meses y total del periodo.
+Para actualizar GitHub: sube TODOS los archivos y haz Commit changes. El enlace no cambia.
