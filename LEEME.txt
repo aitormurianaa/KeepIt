@@ -1,3 +1,5 @@
+KEEPIT v11 - grafico de gastos mensual y anual seleccionable en Resumen.
+KEEPIT v10 - categorias separadas: Restaurantes, Ocio, Ropa y Compras.
 KEEPIT v9
 Inicio: saldos separados, gasto/ingreso/transferencia y ultimos movimientos.
 Resumen: presupuestos, grafico circular, categorias y resultado mensual.
