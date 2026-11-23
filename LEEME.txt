@@ -1,0 +1,7 @@
+KEEPIT v9
+Inicio: saldos separados, gasto/ingreso/transferencia y ultimos movimientos.
+Resumen: presupuestos, grafico circular, categorias y resultado mensual.
+Cuentas: Revolut y Trade Republic por defecto; editar y crear mas.
+Herramientas: importacion local de PDF optimizada para Revolut y Trade Republic, clasificacion automatica, vista previa, duplicados, reconciliacion de saldo y copias de seguridad.
+
+Actualizacion GitHub: sube TODOS estos archivos con Add file > Upload files y Commit changes. Espera a Pages y abre la web una vez en Safari.
