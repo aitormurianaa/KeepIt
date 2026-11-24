@@ -1,4 +1,6 @@
-KEEPIT v13
-Mantiene Inicio, Resumen, Cuentas, Herramientas, Revolut/Trade Republic, categorias separadas, grafico mensual/anual, presupuestos e importador PDF con saldo final.
-NUEVO: pantalla Listas con Gastos e Ingresos por separado, filtro por mes y ano, opcion Todos los meses y total del periodo.
-Para actualizar GitHub: sube TODOS los archivos y haz Commit changes. El enlace no cambia.
+KEEPIT v14 OBJETIVOS
+- Inicio muestra primero el dinero total, luego reservado, libre y cada cuenta separada.
+- Nueva pantalla Objetivos: crear metas, fecha, aportaciones y retiradas por cuenta, progreso y ahorro mensual necesario.
+- Los objetivos son reservas virtuales: no modifican el saldo bancario ni duplican patrimonio.
+- Conserva la clave keepit-v13-data para mantener datos de v13.
+- Nuevo icono con nombres v3 para evitar la cache antigua de iPhone.
