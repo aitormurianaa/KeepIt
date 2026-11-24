@@ -1,6 +1,5 @@
-KEEPIT v14 OBJETIVOS
-- Inicio muestra primero el dinero total, luego reservado, libre y cada cuenta separada.
-- Nueva pantalla Objetivos: crear metas, fecha, aportaciones y retiradas por cuenta, progreso y ahorro mensual necesario.
-- Los objetivos son reservas virtuales: no modifican el saldo bancario ni duplican patrimonio.
-- Conserva la clave keepit-v13-data para mantener datos de v13.
-- Nuevo icono con nombres v3 para evitar la cache antigua de iPhone.
+KEEPIT v15
+- Listas deja de ser una pestaña independiente.
+- Gastos/Ingresos y filtros de mes/año quedan dentro de Resumen, antes del gráfico por categorías.
+- Eliminado el emoji delante de Reservado en Inicio.
+- Resto de funcionalidades idénticas a v14: saldos, objetivos, cuentas, importador Revolut/Trade Republic, presupuestos y gráfico mensual/anual.
